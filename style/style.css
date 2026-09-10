@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+}
+
+header{
+    padding-left: 50px;
+    margin: 0px;
+}
+
+section{
+    margin-top: 46px;
+}
+
+a{
+    color: white;
+}
+
+.head{
+    background-color: #202846;
+    height: 55px;
+}
+
+.head-icon{
+    height: 50px;
+}
+
+.text{
+    background-color: #C6C6DC;
+    height: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+
+.buy{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.present{
+    background-color: #C6C6DC;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+footer{
+    background-color: #202846;
+    color: white;
+    height: 20px;
+    padding: 20px 50px;
+    margin-top: 20px;
+}
+
+.info{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.about{
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #C6C6DC;
+}
+
+.account-info{
+    background-color: #C6C6DC;
+    margin: 47px 200px;
+    padding: 47px 167px;
+    display: flex;
+}
+
+.avatar-info{
+    display: block;
+}
+
+.account-input{
+    display: flex;
+    margin: 47px 200px;
+    background-color: #C6C6DC;
+}
